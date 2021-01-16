@@ -1,9 +1,0 @@
-:root {
-    --text-font: "Raleway", sans-serif;
-    --logotype-font: "Roboto", sans-serif;
-    --accent-color: #2196F3;
-  }
-body {
-    font-family: var(--text-font);
-    color: #757575;
-    }
