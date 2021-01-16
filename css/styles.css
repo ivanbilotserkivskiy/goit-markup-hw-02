@@ -214,3 +214,8 @@ line-height: 1.87;
 letter-spacing: 0.03em;
 color: #757575;
 }
+.portfolio_buttons-list-item-text-chosen {
+    background-color: var(--accent-color);
+    color: #ffffff;
+}
+/* end portfolio */
